@@ -11,7 +11,7 @@ load_dotenv()
 app = FastAPI()
 
 origins = [
-    "http://localhost:5174",
+    "https://myaithucchien.vercel.app",
 ]
 
 app.add_middleware(
