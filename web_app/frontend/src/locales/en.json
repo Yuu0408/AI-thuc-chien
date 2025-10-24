@@ -1,0 +1,79 @@
+{
+  "nav": {
+    "home": "Home",
+    "mini_game": "Mini Game"
+  },
+  "mini_game": {
+    "title": "Do you want to travel Yen Hoa village?",
+    "description": "I will make your dream come true.",
+    "upload_prompt": "Drag or import a picture"
+  },
+  "welcome": {
+    "title": "Welcome to Bản Hòa",
+    "description": "The Yên Hòa cultural village is a place that preserves the unique cultural identity of the ethnic groups in Tương Dương, Nghệ An. Visitors can admire the stilt houses, traditional costumes, and enjoy the local cuisine.",
+    "features": [
+      "Ancient Tower of Yên Hòa",
+      "Local Cuisine",
+      "Brocade Weaving Village",
+      "Boat Trip on the Nậm Nơn River"
+    ]
+  },
+  "specialties": {
+    "title": "Local Specialties",
+    "items": [
+      "Cơm lam (Bamboo-tube rice)",
+      "Gà nướng (Grilled chicken)",
+      "Xôi nếp cẩm (Purple sticky rice)"
+    ]
+  },
+  "tower": {
+    "title": "Ancient Tower of Yên Hòa: Tháp Xốp Lọt"
+  },
+  "timeline": {
+    "title": "Timeline",
+    "events": [
+      {
+        "year": "800 AD",
+        "description": "Construction of the Xốp Lọt Tower"
+      },
+      {
+        "year": "190 AD",
+        "description": "Construction of the Cồn Cẹp Temple"
+      },
+      {
+        "year": "199 AD",
+        "description": "Development of the Nà Lười weaving village"
+      },
+      {
+        "year": "2010",
+        "description": "Yên Hòa Suspension Bridge"
+      }
+    ]
+  },
+  "chat": {
+    "button": "Ask AI",
+    "placeholder": "Type your message..."
+  },
+  "banners": [
+    {
+      "title": "Welcome to Yen Hoa Village",
+      "description": "Yen Hoa village, located in My Ly commune, Tuong Duong district, Nghe An province, is a beautiful Thai village. It preserves unique traditional cultural features. Visitors can immerse themselves in the fresh nature and discover unique cultural values."
+    },
+    {
+      "title": "Thai Ethnic Identity",
+      "description": "Xoe dance is a traditional dance of the Thai people, expressing the spirit of solidarity and hospitality. Visitors can join hands with the locals in graceful Xoe circles."
+    },
+    {
+      "title": "Brocade Weaving Village",
+      "description": "Brocade weaving in Yen Hoa has a long history. Brocade products with exquisite patterns and vibrant colors are meaningful gifts for tourists."
+    },
+    {
+      "title": "Local Specialties",
+      "description": "Northwestern cuisine features unique sticky rice dishes like cassava sticky rice, colorful sticky rice, bamboo-tube grilled rice (com lam), and the Ha Nhi people's red rice. Enjoy them with 'chẳm chéo' dip and other specialties like grilled chicken, grilled fish, or dried buffalo meat."
+    },
+    {
+      "title": "Sacred Ancient Tower",
+      "description": "Xop Lot Tower is an ancient architectural work, bearing the imprint of Buddhism. This is a spiritual destination for local people and tourists."
+    }
+  ]
+}

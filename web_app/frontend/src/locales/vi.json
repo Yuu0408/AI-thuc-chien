@@ -1,0 +1,79 @@
+{
+  "nav": {
+    "home": "Trang chủ",
+    "mini_game": "Trò chơi nhỏ"
+  },
+  "mini_game": {
+    "title": "Bạn có muốn du lịch bản Yên Hòa không?",
+    "description": "Tôi sẽ biến ước mơ của bạn thành hiện thực.",
+    "upload_prompt": "Kéo hoặc nhập ảnh"
+  },
+  "welcome": {
+    "title": "Chào mừng đến với Bản Hòa",
+    "description": "Làng văn hóa Yên Hòa là nơi lưu giữ những nét văn hóa đặc sắc của các dân tộc ở Tương Dương, Nghệ An. Du khách có thể chiêm ngưỡng những ngôi nhà sàn, trang phục truyền thống và thưởng thức ẩm thực địa phương.",
+    "features": [
+      "Tháp cổ Yên Hòa",
+      "Ẩm thực địa phương",
+      "Làng nghề dệt thổ cẩm",
+      "Du thuyền trên sông Nậm Nơn"
+    ]
+  },
+  "specialties": {
+    "title": "Món ăn đặc sản",
+    "items": [
+      "Cơm lam",
+      "Gà nướng",
+      "Xôi nếp cẩm"
+    ]
+  },
+  "tower": {
+    "title": "Tháp cổ Yên Hòa: Tháp Xốp Lọt"
+  },
+  "timeline": {
+    "title": "Dòng thời gian",
+    "events": [
+      {
+        "year": "Năm 800",
+        "description": "Xây dựng Tháp Xốp Lọt"
+      },
+      {
+        "year": "Năm 190",
+        "description": "Xây dựng Đền Cồn Cẹp"
+      },
+      {
+        "year": "Năm 199",
+        "description": "Phát triển làng dệt Nà Lười"
+      },
+      {
+        "year": "Năm 2010",
+        "description": "Cầu treo Yên Hòa"
+      }
+    ]
+  },
+  "chat": {
+    "button": "Hỏi AI",
+    "placeholder": "Nhập tin nhắn của bạn..."
+  },
+  "banners": [
+    {
+      "title": "Chào Mừng đến với bản yên hòa",
+      "description": "Bản Yên Hòa, xã Mỹ Lý, huyện Tương Dương, tỉnh Nghệ An là một bản làng xinh đẹp của người Thái. Nơi đây vẫn giữ được những nét văn hóa truyền thống đặc sắc. Du khách đến đây sẽ được hòa mình vào thiên nhiên trong lành và khám phá những giá trị văn hóa độc đáo."
+    },
+    {
+      "title": "Bản sắc dân tộc Thái",
+      "description": "Múa xòe là điệu múa truyền thống của người Thái, thể hiện tinh thần đoàn kết và lòng mến khách. Du khách sẽ được cùng người dân địa phương nắm tay nhau trong những vòng xòe uyển chuyển."
+    },
+    {
+      "title": "Làng nghề dệt thổ cẩm",
+      "description": "Nghề dệt thổ cẩm ở Yên Hòa đã có từ lâu đời. Những sản phẩm thổ cẩm với hoa văn tinh xảo, màu sắc rực rỡ là món quà ý nghĩa cho du khách."
+    },
+    {
+      "title": "Món ăn đặc sản",
+      "description": "Ẩm thực Tây Bắc nổi bật với các món xôi và cơm độc đáo như xôi sắn, xôi nếp nương nhiều màu sắc, cơm lam nướng ống tre và cơm đỏ của người Hà Nhì. Thưởng thức cùng chẳm chéo và các đặc sản khác như gà nướng, cá nướng, thịt trâu gác bếp."
+    },
+    {
+      "title": "Tháp cổ linh thiêng",
+      "description": "Tháp Xốp Lọt là một công trình kiến trúc cổ kính, mang đậm dấu ấn của Phật giáo. Đây là điểm đến tâm linh của người dân địa phương và du khách."
+    }
+  ]
+}
